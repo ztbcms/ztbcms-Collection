@@ -9,7 +9,7 @@ return array(
 	//模块简介
 	'introduce' => '采集模块是可以批量采集目标网站内容入库',
 	//模块介绍地址
-	'address' => 'http://www.ztbcms.com',
+	'address' => 'http://doc.ztbcms.com/module/collection/',
 	//模块作者
 	'author' => 'ZtbCMS',
 	//作者地址
